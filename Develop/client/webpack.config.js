@@ -22,10 +22,22 @@ module.exports = () => {
         template: './index.html',
         title: 'Webpack Plugin'
       }),
-      new InjectManifest({
-        swSrc: './src-sw.js',
-        swDest: 'service-worker.js'
-      })
+      // Do we need GenerateSW()?
+      new WebpackPwaManifest({
+        name: 'Jate Text Editor',
+        short_name: 'jate',
+        description: 'Just another text editor.',
+        theme_color: '#ffffff',
+        start_url: './',
+        publicPath: './',
+        crossorigin: 'use-credentials',
+        icons: [
+          {
+            src: path.resolve('images/logo.png'),
+            sizes: [96, 128, 256, 512] // multiple sizes
+          },
+        ]
+      }),
     ],
 
     module: {
