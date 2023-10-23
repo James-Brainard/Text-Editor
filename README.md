@@ -38,7 +38,8 @@
   ## Link to deployed site
   https://murmuring-savannah-07320-fe88749f280e.herokuapp.com/
 
-
+  ## Screenshot of deployed Application
+  ![Screenshot of Application](text-editor-screenshot.JPG)
 
   ## Question
   Please refer to my github for other awesome projects! https://github.com/james-brainard
