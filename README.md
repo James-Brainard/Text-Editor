@@ -30,7 +30,7 @@
   Please invoke this application with 'npm run start'
 
   ## Credits
-    Text-Editor Starter Code from github user: Xandromus in Repository: cautious-meme. See below for link to repository: https://github.com/coding-boot-camp/cautious-meme
+  Text-Editor Starter Code from github user: Xandromus in Repository: cautious-meme. See below for link to repository: https://github.com/coding-boot-camp/cautious-meme
 
   ## License
   GNU
