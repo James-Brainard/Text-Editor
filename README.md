@@ -21,7 +21,7 @@
   Node
 
   ## Usage 
-  An application that can be used offline or online that is a simple text editor.
+  An application that can be used offline or online that is a simple text editor. Go to my deployed site, you can view this downloaded or in the browser.
 
   ## Contributions
   N/A
@@ -30,7 +30,8 @@
   Please invoke this application with 'npm run start'
 
   ## Credits
-  N/A
+  Text-Editor Starter Code from github user: Xandromus in Repository: cautious-meme. See below for link to repository: https://github.com/coding-boot-  
+  camp/cautious-meme
 
   ## License
   GNU
